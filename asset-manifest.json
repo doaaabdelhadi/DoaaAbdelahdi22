@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DoaaAbdelahdi22/static/css/main.f2d50ca2.css",
+    "main.js": "/DoaaAbdelahdi22/static/js/main.4bab402c.js",
+    "static/media/video.jpg": "/DoaaAbdelahdi22/static/media/video.0a8fed8d6f30c6474ee0.jpg",
+    "static/media/Presentation.jpg": "/DoaaAbdelahdi22/static/media/Presentation.db41dda79a1888de5392.jpg",
+    "static/media/me.png": "/DoaaAbdelahdi22/static/media/me.54e65c90933326d809f7.png",
+    "index.html": "/DoaaAbdelahdi22/index.html",
+    "main.f2d50ca2.css.map": "/DoaaAbdelahdi22/static/css/main.f2d50ca2.css.map",
+    "main.4bab402c.js.map": "/DoaaAbdelahdi22/static/js/main.4bab402c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d50ca2.css",
+    "static/js/main.4bab402c.js"
+  ]
+}
